@@ -1,0 +1,19 @@
+body
+{
+	background-color: bisque;
+	color: black;
+	font-family: "Arial Black", Arial, Verdana, serif;
+}
+h1
+{
+	color: blue; 
+	text-align: center;
+}
+p
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	font-size: 17px;
+	font-family: Calibri, "Trebuchet MS", Georgia, serif;
+}
